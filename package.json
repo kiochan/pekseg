@@ -1,0 +1,34 @@
+{
+  "name": "pekseg",
+  "version": "0.1.0",
+  "description": "PEKSEG segmented display SVG asset. A 38-segment display design for Chinese/Japanese numerals, packaged for direct import in web projects.",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "pekseg",
+    "segmented display",
+    "38 segment",
+    "display",
+    "seven segment",
+    "svg",
+    "chinese numerals",
+    "japanese numerals",
+    "kanji",
+    "numeric display",
+    "digital display",
+    "typography"
+  ],
+  "author": {
+    "name": "kiochan",
+    "url": "https://github.com/kiochan"
+  },
+  "contributors": [
+    {
+      "name": "Pekero",
+      "url": "https://twitter.com/pekerokotan"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "packageManager": "pnpm@10.18.1"
+}
