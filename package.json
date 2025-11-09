@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "PEKSEG segmented display SVG asset. A 38-segment display design for Chinese/Japanese numerals, packaged for direct import in web projects.",
   "files": [
-    "dist"
+    "dist",
+    "assets"
   ],
   "keywords": [
     "pekseg",
