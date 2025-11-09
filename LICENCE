@@ -1,0 +1,23 @@
+PEKSEG © 2024 by Pekero is licensed under CC BY 4.0.
+https://creativecommons.org/licenses/by/4.0/
+
+This package repackages the original PEKSEG segmented display SVG for redistribution on npm.
+
+Attribution requirement (as required by CC BY 4.0):
+
+- You must credit the original creator: “PEKSEG by Pekero”
+- You must include a link to the original source video: https://www.youtube.com/watch?v=1820917873646411942
+- You must include a link to the original author’s social profile: https://twitter.com/pekerokotan
+- You must include this license notice in any redistributed or modified copies.
+- You may use, modify, and redistribute this work for any purpose, including commercial, as long as proper attribution is kept.
+
+Packaged and published as an npm library by kiochan
+https://github.com/kiochan
+
+---
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+Full License Text:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+---
